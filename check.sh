@@ -7,6 +7,11 @@
 #  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 
 # --------------------------------------------------------------
-# Display login names of users currently logged in on system
+# Check
 # --------------------------------------------------------------
-users
+	# Display login names of users currently logged
+	users
+
+	netstat
+	netstat -tulpn
+# --------------------------------------------------------------
